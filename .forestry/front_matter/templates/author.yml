@@ -44,4 +44,5 @@ fields:
   label: Featured Author
   description: Feature this author on the home page
 pages:
+- content/authors/AdPhoto/ad-photo.md
 - content/authors/ad-photo.md
