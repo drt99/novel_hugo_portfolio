@@ -2,7 +2,7 @@
 avatar = ""
 bio = "test"
 draft = true
-featured = false
+featured = true
 title = "Ad Photo"
 [[social]]
 title = "Github"
