@@ -10,6 +10,11 @@ sections:
   path: content/_index.md
   label: Home
 - type: directory
+  path: photo
+  label: Photo
+  create: all
+  match: "**/*"
+- type: directory
   path: content/post
   label: Posts
   create: all
