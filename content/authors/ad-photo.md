@@ -1,7 +1,6 @@
 +++
 avatar = ""
 bio = "test"
-draft = true
 featured = false
 title = "Ad Photo"
 [[social]]
